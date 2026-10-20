@@ -112,10 +112,10 @@ Digitalizar la administración de reservas de servicios personalizados mediante 
 - **Control de usuarios:** Sistema de autenticación y autorización por roles para separar las tareas operativas de la administración general.
 
 ### 📸 Capturas del Sistema
-| Calendario Interactivo de Reservas | Panel de Administración de Servicios |
+| Calendario Interactivo de Reservas | 
 | :---: | :---: |
-| ![Calendario Sweet Surprise](assets/sweet-surprise/calendario-reservas.png) | ![Panel Admin](assets/sweet-surprise/panel-admin.png) |
-| *Control visual de fechas y horarios disponibles* | *Administración de reservas y roles de usuario* |
+| ![Calendario Sweet Surprise](assets/sweet-surprise/1745267347358.png) |
+| *Control visual de fechas y horarios disponibles* |
 
 ---
 
