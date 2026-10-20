@@ -33,15 +33,27 @@ Centralizar, geolocalizar y dar seguimiento en tiempo real a un alto volumen de 
 - **Analítica de datos:** Construcción de módulos estadísticos y gráficas de frecuencia de fallas para identificar zonas críticas y tiempos de respuesta.
 
 ### 📸 Capturas del Sistema
-| Mapa Interactivo y Marcadores (Leaflet.js) | Panel Analítico de Incidencias |
-| :---: | :---: |
-| ![Mapa de Incidentes](assets/caem/msps.png) | ![Dashboard Analítico](assets/caem/metricas1.png) | ![Dashboard Analítico](assets/caem/metricas2.png) |
-| *Renderización optimizada de reportes geolocalizados* | *Métricas de frecuencia de fallas y estado de atención* |
 
-| Gestión y Escalamiento de Tickets Multirrol |
+#### Mapa Interactivo y Marcadores (Leaflet.js)
+| Mapa Interactivo y Marcadores (Leaflet.js) |
 | :---: |
-| ![Gestión de Tickets](assets/caem/tickets-multirrol.png) |
-| *Vista de asignación y seguimiento para administradores, revisores y técnicos* |
+| ![Mapa de Incidentes](assets/caem/msps.png) |
+| *Renderización optimizada de reportes geolocalizados* |
+
+#### Panel Analítico de Incidencias 
+| Panel Analítico - Vista 1 | Panel Analítico - Vista 2 |
+| :---: | :---: |
+| ![Dashboard Analítico 1](assets/caem/metricas1.png) | ![Dashboard Analítico 2](assets/caem/metricas2.png) |
+| *Métricas de frecuencia de fallas y estado de atención* | *Gráficas de distribución y análisis de incidencias* |
+| **Panel Analítico - Vista 3** | **Panel Analítico -  |
+| ![Dashboard Analítico 3](assets/caem/metrica3.png) | ![Dashboard Analítico 4](assets/caem/metricas4.png) |
+| *Indicadores operativos y tiempos de respuesta* | *Estadísticas detalladas de reportes ciudadanos* |
+
+#### Gestión y Escalamiento de Tickets Multirrol 
+| Gestión de Tickets - Vista 1 | Gestión de Tickets  |
+| :---: | :---: |
+| ![Gestión de Tickets 1](assets/caem/asignar-1.png) | ![Gestión de Tickets 2](assets/caem/asignar2.png) |
+| *Vista de asignación y control para administradores y revisores* | *Seguimiento y escalamiento de tickets para técnicos* |
 
 ---
 
@@ -62,15 +74,24 @@ Diseñar desde cero una plataforma segura y auditable para automatizar la recepc
 - **Dashboards de monitoreo en tiempo real:** Creación de paneles de control con gráficas analíticas para supervisar indicadores clave (KPIs), como **tasas de aceptación de artículos** y **tiempos promedio de revisión**.
 
 ### 📸 Capturas del Sistema
-| Dashboard de Métricas y Tasas de Aceptación | Flujo de Asignación y Revisión de Artículos |
-| :---: | :---: |
-| ![Dashboard CITCA](assets/citca/dashboard-aceptacion.png) | ![Flujo de Artículos](assets/citca/flujo-articulos.png) |
-| *Monitoreo en tiempo real del proceso editorial* | *Interfaz de seguimiento y evaluación por pares* |
 
-| Administración de Roles y Permisos (RBAC) |
-| :---: |
-| ![Control RBAC](assets/citca/control-rbac.png) |
-| *Gestión granular de accesos y privilegios de usuario* |
+#### Dashboard de Métricas y Tasas de Aceptación (2 vistas)
+| Dashboard de Métricas - Vista 1 | Dashboard de Métricas - Vista 2 |
+| :---: | :---: |
+| ![Dashboard CITCA 1](assets/citca/dashboard-aceptacion-1.png) | ![Dashboard CITCA 2](assets/citca/dashboard-aceptacion-2.png) |
+| *Monitoreo en tiempo real de tasas de aceptación* | *Gráficas analíticas de tiempos de revisión* |
+
+#### Flujo de Asignación y Revisión de Artículos (2 vistas)
+| Flujo de Artículos - Vista 1 | Flujo de Artículos - Vista 2 |
+| :---: | :---: |
+| ![Flujo de Artículos 1](assets/citca/flujo-articulos-1.png) | ![Flujo de Artículos 2](assets/citca/flujo-articulos-2.png) |
+| *Asignación dinámica de artículos a revisores* | *Interfaz de seguimiento y dictaminación por pares* |
+
+#### Administración de Roles y Permisos - RBAC (2 vistas)
+| Control RBAC - Vista 1 | Control RBAC - Vista 2 |
+| :---: | :---: |
+| ![Control RBAC 1](assets/citca/control-rbac-1.png) | ![Control RBAC 2](assets/citca/control-rbac-2.png) |
+| *Gestión de usuarios y roles del sistema* | *Configuración granular de permisos y accesos* |
 
 ---
 
@@ -93,7 +114,7 @@ Digitalizar la administración de reservas de servicios personalizados mediante 
 ### 📸 Capturas del Sistema
 | Calendario Interactivo de Reservas | Panel de Administración de Servicios |
 | :---: | :---: |
-| ![Calendario Sweet Surprise](assets/sweet-surprise/1745267347358.jpg) | ![Panel Admin](assets/sweet-surprise/panel-admin.png) |
+| ![Calendario Sweet Surprise](assets/sweet-surprise/calendario-reservas.png) | ![Panel Admin](assets/sweet-surprise/panel-admin.png) |
 | *Control visual de fechas y horarios disponibles* | *Administración de reservas y roles de usuario* |
 
 ---
