@@ -52,7 +52,7 @@ Centralizar, geolocalizar y dar seguimiento en tiempo real a un alto volumen de 
 #### Gestión y Escalamiento de Tickets Multirrol 
 | Gestión de Tickets - Vista 1 | Gestión de Tickets  |
 | :---: | :---: |
-| ![Gestión de Tickets 1](assets/caem/asignar-1.png) | ![Gestión de Tickets 2](assets/caem/asignar2.png) |
+| ![Gestión de Tickets 1](assets/caem/asignar.png) | ![Gestión de Tickets 2](assets/caem/asignar2.png) |
 | *Vista de asignación y control para administradores y revisores* | *Seguimiento y escalamiento de tickets para técnicos* |
 
 ---
@@ -78,13 +78,13 @@ Diseñar desde cero una plataforma segura y auditable para automatizar la recepc
 #### Dashboard de Métricas y Tasas de Aceptación (2 vistas)
 | Dashboard de Métricas - Vista 1 | Dashboard de Métricas - Vista 2 |
 | :---: | :---: |
-| ![Dashboard CITCA 1](assets/citca/dashboard-aceptacion-1.png) | ![Dashboard CITCA 2](assets/citca/dashboard-aceptacion-2.png) |
+| ![Dashboard CITCA 1](assets/citca/aceptacion1.png) | ![Dashboard CITCA 2](assets/citca/aceptacion2.png) |
 | *Monitoreo en tiempo real de tasas de aceptación* | *Gráficas analíticas de tiempos de revisión* |
 
 #### Flujo de Asignación y Revisión de Artículos (2 vistas)
 | Flujo de Artículos - Vista 1 | Flujo de Artículos - Vista 2 |
 | :---: | :---: |
-| ![Flujo de Artículos 1](assets/citca/flujo-articulos-1.png) | ![Flujo de Artículos 2](assets/citca/flujo-articulos-2.png) |
+| ![Flujo de Artículos 1](assets/citca/arti1.png) | ![Flujo de Artículos 2](assets/citca/arti2.png) |
 | *Asignación dinámica de artículos a revisores* | *Interfaz de seguimiento y dictaminación por pares* |
 
 #### Administración de Roles y Permisos - RBAC (2 vistas)
