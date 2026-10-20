@@ -113,8 +113,8 @@ Digitalizar la administración de reservas de servicios personalizados mediante 
 
 ### 📸 Capturas del Sistema
 | Calendario Interactivo de Reservas | 
-| :---: | :---: |
-| ![Calendario Sweet Surprise](assets/sweet-surprise/1745267347358.png) |
+| :---: |
+| ![Calendario Sweet Surprise](assets/sweet-surprise/1745267347358.jpg) |
 | *Control visual de fechas y horarios disponibles* |
 
 ---
