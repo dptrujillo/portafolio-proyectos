@@ -35,7 +35,7 @@ Centralizar, geolocalizar y dar seguimiento en tiempo real a un alto volumen de 
 ### 📸 Capturas del Sistema
 | Mapa Interactivo y Marcadores (Leaflet.js) | Panel Analítico de Incidencias |
 | :---: | :---: |
-| ![Mapa de Incidentes](assets/caem/mapa-interactivo.png) | ![Dashboard Analítico](assets/caem/dashboard-metricas.png) |
+| ![Mapa de Incidentes](assets/caem/msps.png) | ![Dashboard Analítico](assets/caem/metricas1.png) |
 | *Renderización optimizada de reportes geolocalizados* | *Métricas de frecuencia de fallas y estado de atención* |
 
 | Gestión y Escalamiento de Tickets Multirrol |
