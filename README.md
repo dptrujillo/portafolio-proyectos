@@ -78,19 +78,19 @@ Diseñar desde cero una plataforma segura y auditable para automatizar la recepc
 #### Dashboard de Métricas y Tasas de Aceptación (2 vistas)
 | Dashboard de Métricas - Vista 1 | Dashboard de Métricas - Vista 2 |
 | :---: | :---: |
-| ![Dashboard CITCA 1](assets/citca/aceptacion1.png) | ![Dashboard CITCA 2](assets/citca/aceptacion2.png) |
+| ![Dashboard CITCA 1](assets/citca/vista1.png) | ![Dashboard CITCA 2](assets/citca/vista1,2.png) |
 | *Monitoreo en tiempo real de tasas de aceptación* | *Gráficas analíticas de tiempos de revisión* |
 
 #### Flujo de Asignación y Revisión de Artículos (2 vistas)
 | Flujo de Artículos - Vista 1 | Flujo de Artículos - Vista 2 |
 | :---: | :---: |
-| ![Flujo de Artículos 1](assets/citca/arti1.png) | ![Flujo de Artículos 2](assets/citca/arti2.png) |
+| ![Flujo de Artículos 1](assets/citca/asig1.png) | ![Flujo de Artículos 2](assets/citca/asig2.png) |
 | *Asignación dinámica de artículos a revisores* | *Interfaz de seguimiento y dictaminación por pares* |
 
 #### Administración de Roles y Permisos - RBAC (2 vistas)
 | Control RBAC - Vista 1 | Control RBAC - Vista 2 |
 | :---: | :---: |
-| ![Control RBAC 1](assets/citca/control-rbac-1.png) | ![Control RBAC 2](assets/citca/control-rbac-2.png) |
+| ![Control RBAC 1](assets/citca/per1.png) | ![Control RBAC 2](assets/citca/per2.png) |
 | *Gestión de usuarios y roles del sistema* | *Configuración granular de permisos y accesos* |
 
 ---
